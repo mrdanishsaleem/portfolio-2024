@@ -1,6 +1,6 @@
 # **[Danish Saleem](https://mrdanishsaleem.vercel.app/)**
 
-Hey there! I'm Brayden and this is my lovely lovely portfolio built using **React, NextJS, and TailwindCSS**!
+Hey there! I'm Danish Saleem and this is my lovely lovely portfolio built using **React, NextJS, and TailwindCSS**!
 
 ## Guidelines
 
